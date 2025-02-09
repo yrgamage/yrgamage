@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋,👋 Hi, I’m Yoshani Gamage</h2>
+<h2 align="center">Hi 👋 Hi, I’m Yoshani Gamage</h2>
 <p align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lashen1227&label=Profile%20views&color=1E3A8A&style=flat" alt="" /> </p>
@@ -14,6 +14,7 @@
 - 👀 I’m interested in Coding and Problem Solving
 
 - 🚀 Pursuing a career in Coding
+  
 - 📫 Reach me: yrgamage28@gmail.com
 
 ---
