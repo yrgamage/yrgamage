@@ -1,15 +1,8 @@
 <h2 align="center">Hi👋 , I’m Yoshani Gamage</h2>
-<p align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 75px alt="" /> </p>
 
----
-
-<img width="42%" align="right" alt="" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 I’m currently learning **Programming**. 
-
-- 🤝 🌱 I am currently enrolled in B(Eng) Hons Software Engineering at the University of Westminster
-
-- 👀 I’m interested in Coding and Problem Solving
+- 🤝 I am currently enrolled in B(Eng) Hons Software Engineering at the University of Westminster
+  
+- 🌱 I’m currently learning **Programming** and interested in Coding and Problem Solving. 
 
 - 🚀 Pursuing a career in Coding
   
@@ -31,16 +24,8 @@
 
 ---
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=yrgamage&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
-      <br>
-      <img src="https://streak-stats.demolab.com?user=yrgamage&theme=tokyonight&hide_border=false" /> 
-    </td>
-      
-   <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yrgamage&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
-   </td>
-  </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yrgamage&show_icons=true&locale=en&layout=compact" alt="Yoshani Gamage" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yrgamage&show_icons=true&locale=en" alt="Yoshani Gamage" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yrgamage&" alt="Yoshani Gamage" /></p>
