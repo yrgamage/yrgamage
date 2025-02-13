@@ -16,14 +16,16 @@
 
 ---
 
-<h3 align="center">Languages & Tools:</h3>
-<p align="center">
-<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,sass,js,ts,nodejs,expressjs,mysql,mongodb,git,php,py,selenium,tailwindcss,bootstrap,mui,figma&theme=dark&perline=10"/</a> 
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yrgamage&show_icons=true&locale=en&layout=compact" alt="Yoshani Gamage" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yrgamage&show_icons=true&locale=en" alt="Yoshani Gamage" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yrgamage&" alt="yrgamage" /></p>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=yrgamage&theme=white&show_icons=true&count_private=true&hide_border=false" />
+      <br>
+      <img src="https://streak-stats.demolab.com?user=yrgamage&theme=white&hide_border=false" /> 
+    </td>
+      
+   <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yrgamage&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+   </td>
+  </tr>
+</table>
