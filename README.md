@@ -15,6 +15,9 @@
 </p>
 
 ---
+<p align="center">
+<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,js,nodejs,expressjs,mysql,mongodb,git,php,py,tailwindcss,bootstrap,mui,figma&theme=dark&perline=10"/</a> 
+</p>
 
 <table align="center">
   <tr border="none">
