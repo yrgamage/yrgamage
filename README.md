@@ -12,6 +12,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/yoshani-gamage/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" width="40" />
 <a href="https://www.instagram.com/yoshani_gamage?igsh=MTJzNGlidWJrNHNxbA==" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yoshani Gamage" height="35" width="40" /></a>
+<a href="https://medium.com/yrgamage28">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" width="30" height="30"/>
+</a>
 </p>
 
 ---
