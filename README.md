@@ -15,6 +15,7 @@
 <a href="https://medium.com/yrgamage28">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" width="30" height="30"/>
 </a>
+  <a href="https://stackoverflow.com/users/23335394/yoshani-gamage"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="40"/></a>
 </p>
 
 ---
